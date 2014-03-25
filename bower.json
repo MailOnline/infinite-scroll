@@ -1,0 +1,18 @@
+{
+  "name": "infinite-scroll",
+  "version": "2.0",
+  "homepage": "https://github.com/MailOnline/infinite-scroll",
+  "authors": [
+    "Elena Morgan <e.morgan248@gmail.com>"
+  ],
+  "description": "The jQuery and WordPress Plugins",
+  "main": "jquery.infinitescroll.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
